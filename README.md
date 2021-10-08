@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niksutus
-- 👀 I’m interested in internship possibilities.
-- 🌱 I’m currently learning full stack JavaScript. My goal is also to futher master TypeScript. I'm also interested in learning Java in the future.
+- 👀 I’m interested in internship possibilities
+- 🌱 I’m currently learning full stack JavaScript. My goal is also to futher master TypeScript. I'm also interested in learning Java in the future
 
 <!---
 Niksutus/Niksutus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
