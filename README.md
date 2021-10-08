@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niksutus
-- 👀 I’m interested in internship possibilities
+- 👀 I’m interested in entry level developer job position opportunities
 - 🌱 I’m currently learning full stack JavaScript. My goal is also to futher master TypeScript. I'm also interested in learning Java in the future
 
 <!---
